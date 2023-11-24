@@ -1,0 +1,32 @@
+body
+{
+margin: 0;
+background-color: #10171D;
+background-image: url("happiness.jpg");
+background-position: auto;
+background-repeat: no-repeat;
+background-size: auto;
+
+}
+
+.title
+{background-color: #40826D;
+}
+
+.write
+{
+margin: 15px 25px;
+}
+
+.change
+{
+margin: 25px 25px;
+}
+
+.count
+{
+margin: 15px 25px;
+}
+
+
+
